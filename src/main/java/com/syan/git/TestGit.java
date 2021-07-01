@@ -9,7 +9,5 @@ public class TestGit {
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("hello");
-        System.out.println("hello");
-        System.out.println("hello");
     }
 }
